@@ -1,0 +1,11 @@
+C:\Users\notor\source\repos\lab11!\lab11!\bin\Debug\lab11!.exe.config
+C:\Users\notor\source\repos\lab11!\lab11!\bin\Debug\lab11!.exe
+C:\Users\notor\source\repos\lab11!\lab11!\bin\Debug\lab11!.pdb
+C:\Users\notor\source\repos\lab11!\lab11!\obj\Debug\lab11!.csproj.AssemblyReference.cache
+C:\Users\notor\source\repos\lab11!\lab11!\obj\Debug\lab11_.Form1.resources
+C:\Users\notor\source\repos\lab11!\lab11!\obj\Debug\lab11_.Properties.Resources.resources
+C:\Users\notor\source\repos\lab11!\lab11!\obj\Debug\lab11!.csproj.GenerateResource.cache
+C:\Users\notor\source\repos\lab11!\lab11!\obj\Debug\lab11!.csproj.CoreCompileInputs.cache
+C:\Users\notor\source\repos\lab11!\lab11!\obj\Debug\lab11!.exe
+C:\Users\notor\source\repos\lab11!\lab11!\obj\Debug\lab11!.pdb
+C:\Users\notor\source\repos\lab11!\lab11!\obj\Debug\lab11_.Form2.resources
